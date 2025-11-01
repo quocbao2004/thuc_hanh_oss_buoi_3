@@ -10,7 +10,7 @@ int tich(int a, int b){
 }
 float thuong(int a, int b);
 
-boolean sochinhphuong (int a,int b);
+boolean sochinhphuong (int a);
 
 int main()
 {
